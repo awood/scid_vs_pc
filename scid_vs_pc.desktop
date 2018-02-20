@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Scid Vs. PC
+Comment=A chess database application
+GenericName=Chess Game
+Icon=scid
+Exec=scid_vs_pc
+Terminal=false
+Categories=Game;BoardGame;
+MimeType=application/x-chess-pgn_;
